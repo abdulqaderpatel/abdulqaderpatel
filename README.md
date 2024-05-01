@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [abdulqaderpatel.github.io](abdulqaderpatel.github.io)
+- 👨‍💻 All of my projects are available at [abdulqaderpatel.github.io](https://abdulqaderpatel.github.io/)
 
 - 💬 Ask me about **Android, Flutter**
 
